@@ -1,0 +1,15 @@
+/Users/Mrczz/Desktop/Patricia/dot/dio/bin/Debug/net6.0/dio
+/Users/Mrczz/Desktop/Patricia/dot/dio/bin/Debug/net6.0/dio.deps.json
+/Users/Mrczz/Desktop/Patricia/dot/dio/bin/Debug/net6.0/dio.runtimeconfig.json
+/Users/Mrczz/Desktop/Patricia/dot/dio/bin/Debug/net6.0/dio.dll
+/Users/Mrczz/Desktop/Patricia/dot/dio/bin/Debug/net6.0/dio.pdb
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.csproj.AssemblyReference.cache
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.AssemblyInfoInputs.cache
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.AssemblyInfo.cs
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.csproj.CoreCompileInputs.cache
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.dll
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/refint/dio.dll
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.pdb
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/dio.genruntimeconfig.cache
+/Users/Mrczz/Desktop/Patricia/dot/dio/obj/Debug/net6.0/ref/dio.dll
